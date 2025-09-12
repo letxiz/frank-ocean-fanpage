@@ -1,17 +1,21 @@
-# 🌊 Web Experiments
+# 🌊 Frank Ocean Fan Page  
 
-Bem-vindo(a) ao meu cantinho de mini-sites e experimentos web!  
-Aqui você vai encontrar projetos que fiz por diversão, aprendizado e curiosidade.  
+Bem-vindo(a) a uma página dedicada ao **Frank Ocean**, um dos artistas mais inovadores e influentes da música contemporânea. 🎶  
 
-## 🎨 Projetos atuais
-- **Frank Ocean Fan Page** – um site simples sobre o artista que eu curto  
+## 🎤 Sobre o projeto  
+Este site é um experimento web criado para reunir:  
+- Sua **história** e trajetória musical  
+- Sua **discografia** com álbuns marcantes  
+- Seus **prêmios e reconhecimentos**  
+- Uma **linha do tempo** de sua carreira  
 
-## 🛠 Tecnologias usadas
-- HTML  
-- CSS  
-- JavaScript  
+## 🛠 Tecnologias usadas  
+- **HTML** – estrutura do site  
+- **CSS** – estilização e design responsivo  
+- **JavaScript** – interatividade e pequenos efeitos  
 
-## 🚀 Como ver os sites
-É só abrir os arquivos `.html` no navegador ou, se estiverem hospedados online, acessar os links.  
+## 🚀 Como visualizar  
+- Abra o arquivo `index.html` no navegador  
+- Ou acesse a versão online (se estiver hospedada, ex: Vercel/GitHub Pages)  
 
-Divirta-se explorando! 😎
+💿 Feito por uma fã, para fãs.  
