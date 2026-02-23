@@ -15,7 +15,7 @@ Este site é um experimento web criado para reunir:
 - **JavaScript** – interatividade e pequenos efeitos  
 
 ## 🚀 Como visualizar  
-- Abra o arquivo `index.html` no navegador  
-- Ou acesse a versão online (se estiver hospedada, ex: Vercel/GitHub Pages)  
+- Abra o arquivo `index.html` no navegador.
+- Ou acesse a versão online.
 
 💿 Feito por uma fã, para fãs.  
