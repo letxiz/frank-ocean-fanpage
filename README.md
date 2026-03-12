@@ -40,7 +40,12 @@ Ou, se preferir executar localmente:
 
 ## 📸 Preview
 
-*(Você pode adicionar aqui uma imagem do site depois, se quiser)*
+<img width="1412" height="762" alt="image" src="https://github.com/user-attachments/assets/db0f0bea-5c0b-4403-906f-4f4f23c58061" />
+<img width="1546" height="671" alt="image" src="https://github.com/user-attachments/assets/2f7c2f7a-949b-47ab-bbdb-7e4575242d9f" />
+<img width="1390" height="832" alt="image" src="https://github.com/user-attachments/assets/04612b40-df5f-4cac-93a2-6417dfa0f46c" />
+
+
+
 
 ---
 
