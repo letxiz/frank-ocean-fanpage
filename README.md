@@ -1,21 +1,55 @@
-# 🌊 Frank Ocean Fan Page  
+# 🌊 Frank Ocean Fan Page
 
-Bem-vindo(a) a uma página dedicada ao **Frank Ocean**, um dos artistas mais inovadores e influentes da música contemporânea. 🎶  
+Uma página web dedicada ao artista **Frank Ocean**, um dos nomes mais inovadores e influentes da música contemporânea.
 
-## 🎤 Sobre o projeto  
-Este site é um experimento web criado para reunir:  
-- Sua **história** e trajetória musical  
-- Sua **discografia** com álbuns marcantes  
-- Seus **prêmios e reconhecimentos**  
-- Uma **linha do tempo** de sua carreira  
+O projeto apresenta informações sobre sua trajetória musical, seus álbuns mais marcantes e momentos importantes de sua carreira.
 
-## 🛠 Tecnologias usadas  
-- **HTML** – estrutura do site  
-- **CSS** – estilização e design responsivo  
-- **JavaScript** – interatividade e pequenos efeitos  
+---
 
-## 🚀 Como visualizar  
-- Abra o arquivo `index.html` no navegador.
-- Ou acesse a versão online.
+## 🎤 Sobre o projeto
 
-💿 Feito por uma fã, para fãs.  
+Este site foi desenvolvido como um projeto web para apresentar:
+
+- A história e trajetória musical de Frank Ocean  
+- Sua discografia com álbuns importantes  
+- Prêmios e reconhecimentos ao longo da carreira  
+- Uma linha do tempo destacando momentos relevantes  
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 🚀 Como visualizar o projeto
+
+Você pode acessar o site diretamente pelo link abaixo:
+
+https://frank-ocean-fanpage-ie0o8pza6-leticia-alves-projects-3bfd01a5.vercel.app/
+
+Ou, se preferir executar localmente:
+
+1. Baixe ou clone este repositório  
+2. Abra o arquivo `index.html` em seu navegador  
+
+---
+
+## 📸 Preview
+
+*(Você pode adicionar aqui uma imagem do site depois, se quiser)*
+
+---
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido por **Leticia Alves** como prática de desenvolvimento web utilizando HTML, CSS e JavaScript.
+
+---
+
+## 📌 Observação
+
+Este projeto foi criado com fins educacionais e de prática em desenvolvimento front-end.
